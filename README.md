@@ -43,3 +43,27 @@ No external dependencies are required.
 ## Running the Application
 
 Clone the repository:
+git clone https://github.com/YOUR_USERNAME/disappearing-text-app.git
+
+Navigate into the project:
+
+cd disappearing-text-app
+
+Run the program:
+
+python disappearing_text_app.py
+
+## Future Improvements
+
+Potential enhancements include:
+
+- Difficulty modes (3s / 5s / 10s)
+- Writing goal mode
+- Warning animations before deletion
+- Sound alerts
+- Dark mode themes
+- Export or save successful writing sessions
+
+## Author
+
+Nathaniel Katugwa
